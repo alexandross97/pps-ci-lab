@@ -1,7 +1,7 @@
 plugins {
-    java
-    application
+  java
+  application
 }
 application {
-    mainClassName = "pps.Main"
+  mainClassName = "pps.Main"
 }
